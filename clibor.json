@@ -1,0 +1,13 @@
+{
+	"version": "2.1.2",
+	"homepage": "https://chigusa-web.com/clibor/",
+	"url": "https://dforest.watch.impress.co.jp/library/c/clibor/10713/clibor.zip",
+	"hash": "7c904488a12f03e71b153aacaf3ae355cc5d19199799466370af2b8a5add17ce",
+	"bin": "Clibor/Clibor.exe",
+	"shortcuts": [
+		[
+			"Clibor/Clibor.exe",
+			"Clibor"
+		]
+	]
+}
